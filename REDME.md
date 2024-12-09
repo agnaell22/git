@@ -8,5 +8,5 @@ proje virando programador, do zero.
 o obijetivo é terminar esse cursso como proficional capaz de programar qualuqer coisa.
 e quem sabe conseguir uma nova carreira na area dev.
 
-
+ssss
 faltado varios detalhes kkkkk
