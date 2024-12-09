@@ -9,3 +9,4 @@ o obijetivo é terminar esse cursso como proficional capaz de programar qualuqer
 e quem sabe conseguir uma nova carreira na area dev.
 
 
+faltado varios detalhes kkkkk
